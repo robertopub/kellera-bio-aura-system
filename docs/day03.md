@@ -66,3 +66,33 @@ void loop() {
 
   delay(2000);
 }
+
+---
+
+## Resultado
+
+Leitura de temperatura funcionando em tempo real no Serial Monitor.
+
+O sensor respondeu corretamente ao toque da mão, alterando os valores de temperatura.
+
+---
+
+## Aprendizados
+
+- Configuração do ESP32
+- Comunicação serial
+- Uso do Arduino IDE
+- Instalação de bibliotecas
+- Leitura digital de sensores
+- Integração hardware + software
+
+---
+
+## Próximo passo
+
+Adicionar LED RGB para criar resposta visual baseada na temperatura.
+
+---
+
+Kellera:
+Tecnologia para ampliar capacidades humanas.
