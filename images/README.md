@@ -49,14 +49,6 @@ A ESP32 agora consegue:
 
 ---
 
-# 🎥 Vídeos
-
-## Teste do LED RGB
-
-[Ver vídeo](../videos/rgb-test.mp4)
-
----
-
 ## Sistema reagindo à temperatura
 
 [Ver vídeo](../videos/temperature-response.mp4)
