@@ -100,6 +100,15 @@ A proposta é transformar dados fisiológicos em uma camada visual inteligente, 
 
 ![ESP32](../images/arduino-serialbt.jpg)
 
+
+---
+
+# Demonstração
+
+Vídeo do sistema funcionando em tempo real:
+
+[kellera-live-biometric-system.mp4](../videos/WhatsApp Video 2026-05-17 at 18.56.39.mp4)
+
 ---
 
 # Próximo passo
